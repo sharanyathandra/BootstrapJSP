@@ -1,0 +1,35 @@
+.container-fluid{
+	background-color:#CCC;;
+}
+.container-fluid{
+	height:auto;
+	text-align:center;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+body{
+	margin-bottom:60px;
+}
+.row2{
+	border-bottom: 1px solid #999;
+	margin-top:600px;
+}
+.left{
+	position:absolute;
+	top:30px;
+	right:600px;
+	height:100px;
+	width:100px;
+	
+}
+.loginf{
+	position:absolute;
+	margin-top:200px;
+	width:400px;
+	height:300px;
+}
+.pos{
+	position:absolute;
+	right:100px;
+	top:10px;
+}
